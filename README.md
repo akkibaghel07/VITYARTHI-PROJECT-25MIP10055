@@ -32,6 +32,7 @@ This Python project is a simple yet secure password generator that takes user in
    - All counts as zero (to check error message).
 3. Then check whether the password output matches the expected length and contains the right mix of character types.
 
-● Screenshots:
- <img width="1090" height="437" alt="image" src="https://github.com/user-attachments/assets/8e8ea704-9861-4600-9fbd-886f9f58a001" />
+● Screenshot of Final Output:
+<img width="928" height="580" alt="image" src="https://github.com/user-attachments/assets/9532d252-983a-495b-8fee-d6aee67de577" />
+
 
